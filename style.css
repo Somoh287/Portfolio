@@ -135,11 +135,14 @@ div ul li:hover img {
 
 footer {
 	clear: both;
+	width: 100%;
 	text-align: center;
-	background-color: #2D2D2D;
+	background-color: #948457;
 	color: #fff;
 	padding: 30px 0;
 	font-size: 12px;
+	position: absolute;/*←絶対位置*/
+    bottom: 0; /*下に固定*/
 }
 
 footer img {
