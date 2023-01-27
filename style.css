@@ -11,11 +11,11 @@ body {
 
 header {
 	background-color: white;
-	border-top: 3px solid #5E594B;
+	border-top: 3px solid #828278;
 	padding: 20px 0 0 0;
 }
 
-h1 {
+header h1 {
 	text-shadow: 1px 1px 3px rgb(61 70 70);
 }
 
@@ -141,7 +141,7 @@ footer {
 	clear: both;
 	width: 100%;
 	text-align: center;
-	background-color: #5E594B;
+	background-color: #828278;
 	color: #fff;
 	padding: 30px 0;
 	font-size: 12px;
