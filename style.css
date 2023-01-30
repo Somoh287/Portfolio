@@ -192,6 +192,10 @@ article section p {
 	font-size:medium;
 }
 
+span {
+	font-size: 12px;
+}
+
 /* ==================
 	Aboutページ用css
 ================== */
