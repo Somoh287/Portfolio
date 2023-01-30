@@ -172,19 +172,25 @@ article section h1 {
 	border-left: 3px solid #b1566b;
 	line-height: 1;
 	padding: 0 0 0 10px;
-	margin: 50px 0 20px 140px;
+	margin: 50px 0 0px 140px;
 	text-align: left;
 	font-weight: 900;
 }
 
 article section h2{
-	font-size:x-large;
+	font-size:large;
+	margin: 0 0 0 150px;
 }
+
 article section h2 :hover {
-	color: #280da3;
+	color: #B19956;
 	text-decoration: underline;
 }
 
+article section p {
+	margin: 20px 0 0px 150px;
+	font-size:medium;
+}
 
 /* ==================
 	Aboutページ用css
