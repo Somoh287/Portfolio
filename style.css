@@ -99,7 +99,7 @@ div h3 {
 	text-align: center;
 	margin: 45px 0 30px 0;
 	padding: 0 20px;
-	font-size: 40px;
+	font-size: 35px;
 }
 
 
@@ -187,6 +187,28 @@ article section h2 :hover {
 	text-decoration: underline;
 }
 
+menu {
+	margin: 0 0 0 180px;
+	font-size:medium;
+}
+
+ul {
+	list-style-type: square;
+}
+
+ul a {
+	color: #444;
+	text-decoration: none;
+}
+
+.traveljournal :hover{
+	color: #B19956;
+}
+
+.dates{
+	margin-right: 10px;
+}
+
 article section p {
 	margin: 20px 0 0px 150px;
 	font-size:medium;
@@ -199,9 +221,7 @@ span {
 /* ==================
 	Aboutページ用css
 ================== */
-div#about {
 
-}
 
 /* micro clearfix */
 div#about section:before,
@@ -435,20 +455,3 @@ button:hover {
 .iframe {
 	text-align: center;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
